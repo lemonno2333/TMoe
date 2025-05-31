@@ -17,6 +17,7 @@ public class HookEntry implements IXposedHookLoadPackage, IXposedHookZygoteInit 
             "org.telegram.messenger.beta",
             "org.telegram.plus",
             "nekox.messenger",
+            "xyz.nextalone.nagram"
             "com.jasonkhew96.pigeongram",
             "app.nicegram",
             "xyz.nextalone.nagram",
